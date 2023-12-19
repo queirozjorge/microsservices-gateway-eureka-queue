@@ -1,0 +1,15 @@
+[submodule "ms-avaliacao"]
+	path = ms-avaliacao
+	url = https://github.com/queirozjorge/ms-avaliacao.git
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/queirozjorge/gateway.git
+[submodule "ms-pagamentos"]
+	path = ms-pagamentos
+	url = https://github.com/queirozjorge/ms-pagamentos.git
+[submodule "ms-pedidos"]
+	path = ms-pedidos
+	url = https://github.com/queirozjorge/ms-pedidos.git
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/queirozjorge/eureka-server.git
